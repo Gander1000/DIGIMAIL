@@ -1,0 +1,16 @@
+.Heder{
+    display: flex;
+    flex-direction: column;
+
+    hr{
+        border: none;
+        border-top: 2px solid #F0F0F0;
+    }
+}
+
+.Group{
+    padding: 20px 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
